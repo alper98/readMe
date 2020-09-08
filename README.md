@@ -2,18 +2,18 @@
 
 ## Introduktion
 
+## Project layout
+
 ## Forudsætninger
 
 ## Teknologier
-#### Stack
-#### Dependencies
-#### Cloud functions
+### Stack
+### Dependencies
+### Cloud functions
 
 ## Data model
 
 ## Installation
-
-## Project layout
 
 
 
