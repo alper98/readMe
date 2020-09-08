@@ -1,6 +1,7 @@
 # Title
 
-## Introduktion
+## Introduction
+Short introduction about the product, the customer etc
 
 ## Project layout
 Here we will explain the role of each part of the directory architecture shortly:
@@ -13,8 +14,8 @@ Here we will explain the role of each part of the directory architecture shortly
 
 Se https://github.com/Kvalifik/EasyMove-backend#project-layout
 
-## Forudsætninger
-For at køre projektet skal du have følgende ting installeret på din computer:
+## Prerequisites
+In order to run the project, you need the following installed on your machine:
 
 -
 -
@@ -23,6 +24,7 @@ For at køre projektet skal du have følgende ting installeret på din computer:
 Se https://github.com/Kvalifik/mitpensum-backend#foruds%C3%A6tninger
 
 ## Teknologier
+List the technologies used in the project
 |name |link |description |
 |:----|:----|:-----------|
 |name|link|description|
