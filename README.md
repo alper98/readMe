@@ -10,6 +10,7 @@ The project uses the a layout in which the apps are in parallel to each other to
 |name |Function|
 |name |Function|
 |name |Function|
+
 Se https://github.com/Kvalifik/EasyMove-backend#project-layout
 
 ## Forudsætninger
