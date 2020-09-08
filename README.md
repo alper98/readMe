@@ -3,7 +3,7 @@
 ## Introduktion
 
 ## Project layout
-The project uses the a layout in which the apps are in parallel to each other together with the project. Here we will explain the role of each part of the directory architecture shortly:
+Here we will explain the role of each part of the directory architecture shortly:
 |name|Function|
 |:---|:---|
 |name |Function|
@@ -15,6 +15,7 @@ Se https://github.com/Kvalifik/EasyMove-backend#project-layout
 
 ## Forudsætninger
 For at køre projektet skal du have følgende ting installeret på din computer:
+
 -
 -
 -
