@@ -14,6 +14,12 @@ The project uses the a layout in which the apps are in parallel to each other to
 Se https://github.com/Kvalifik/EasyMove-backend#project-layout
 
 ## Forudsætninger
+For at køre projektet skal du have følgende ting installeret på din computer:
+-
+-
+-
+-
+
 Se https://github.com/Kvalifik/mitpensum-backend#foruds%C3%A6tninger
 
 ## Teknologier
@@ -32,8 +38,15 @@ Se https://github.com/Kvalifik/mitpensum-backend#foruds%C3%A6tninger
 Se https://github.com/Kvalifik/EasyMove-backend#technologies--dependencies
 
 ### - Stack:
-
+-
+-
+-
+-
 ### - Dependencies:
+-
+-
+-
+-
 
 ### - Cloud functions:
 
