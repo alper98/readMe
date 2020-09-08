@@ -39,13 +39,13 @@ List the technologies/dependencies used in the project
 
 Se https://github.com/Kvalifik/EasyMove-backend#technologies--dependencies
 
-### - Stack:
+### Stack:
 -
 -
 -
 -
 
-### - Cloud functions:
+### Cloud functions:
 
 ## Data model
 List an overview of the data model used for the project, see the repo below for inspiration
