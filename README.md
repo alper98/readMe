@@ -7,9 +7,11 @@
 ## Forudsætninger
 
 ## Teknologier
-### Stack
-### Dependencies
-### Cloud functions
+### - Stack:
+
+### - Dependencies:
+
+### - Cloud functions:
 
 ## Data model
 
