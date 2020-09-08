@@ -46,6 +46,11 @@ See https://github.com/Kvalifik/EasyMove-backend#technologies--dependencies
 -
 
 ### Cloud functions:
+If any, list them like the below repo:
+
+See https://github.com/Kvalifik/ida-festbygger#cloud-functions
+
+## Testing
 
 ## Data model
 List an overview of the data model used for the project, see the repo below for inspiration
