@@ -1,16 +1,16 @@
 # Title
 
-# Introduktion
+## Introduktion
 
-# Forudsætninger
+## Forudsætninger
 
-# Stack / Tech / Dependencies
+## Stack / Tech / Dependencies
 
-# Data model
+## Data model
 
-# Installation
+## Installation
 
-# Project layout
+## Project layout
 
 
 
