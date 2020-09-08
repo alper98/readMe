@@ -23,8 +23,8 @@ In order to run the project, you need the following installed on your machine:
 
 Se https://github.com/Kvalifik/mitpensum-backend#foruds%C3%A6tninger
 
-## Teknologier
-List the technologies used in the project
+## Technologies / Dependencies
+List the technologies/dependencies used in the project
 |name |link |description |
 |:----|:----|:-----------|
 |name|link|description|
@@ -44,18 +44,15 @@ Se https://github.com/Kvalifik/EasyMove-backend#technologies--dependencies
 -
 -
 -
-### - Dependencies:
--
--
--
--
 
 ### - Cloud functions:
 
 ## Data model
+List an overview of the data model used for the project, see the repo below for inspiration
 Se https://github.com/Kvalifik/online-messe#data-model
 
 ## Installation / Contributing
+List the steps for installing the project, and how to contribute to the development
 Se https://github.com/Kvalifik/mitpensum-backend#installation
 
 
