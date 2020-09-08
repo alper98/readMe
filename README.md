@@ -4,8 +4,8 @@
 
 ## Project layout
 The project uses the a layout in which the apps are in parallel to each other together with the project. Here we will explain the role of each part of the directory architecture shortly:
-|name |Function|
-|:----|:----|
+|name|Function|
+|:---|:---|
 |name |Function|
 |name |Function|
 |name |Function|
