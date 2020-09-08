@@ -4,7 +4,10 @@
 
 ## Forudsætninger
 
-## Stack / Tech / Dependencies
+## Teknologier
+#### Stack
+#### Dependencies
+#### Cloud functions
 
 ## Data model
 
