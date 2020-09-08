@@ -18,7 +18,6 @@ For at køre projektet skal du have følgende ting installeret på din computer:
 -
 -
 -
--
 
 Se https://github.com/Kvalifik/mitpensum-backend#foruds%C3%A6tninger
 
